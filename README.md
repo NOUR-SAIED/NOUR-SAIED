@@ -1,21 +1,55 @@
-# 💫 About Me:
-I am a final year Data Engineering student currently completing my graduation internship at Scheidt and Bachmann, where I focus on building enterprise-grade data pipelines.<br><br>My technical journey began with predictive modeling and NLP, which quickly taught me a critical industry lesson: the best machine learning models are useless without robust, reliable infrastructure behind them. This realization shifted my focus toward the core pillars of data engineering—ingestion, robust transformation, and rigorous orchestration.<br><br>During my current internship and academic projects, I have focused on translating raw data into business value through two main tracks:<br><br>Data Infrastructure & BI: Designing and implementing end-to-end ELT pipelines. I manage data extraction from enterprise platforms like ServiceNow, handle transformations, and build the serving layer using Apache Superset to deliver production-ready business intelligence.<br><br>Intelligent Systems: Bridging the gap between data engineering and AI by developing containerized Retrieval-Augmented Generation (RAG) systems. I use LangChain and Python to build automated pipelines that ingest internal knowledge bases, turning unstructured data into actionable, intelligent applications.<br><br>My technical toolkit includes Python, SQL, Spark, Airflow, and PostgreSQL, along with modern AI orchestration frameworks. I treat development environments with a production-first mindset, moving prototypes from experimental notebooks to structured, maintainable architectures.<br><br>I am actively looking for junior opportunities, graduate programs, or fully funded Master’s tracks in Data Engineering and Applied AI where I can solve complex architectural challenges and scale data systems.
+<p align="center">
+  <img src="assets/banner.svg" alt="Nour El Houda Saied, Data Engineer and Applied AI" width="100%"/>
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/nourelhouda-saied"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:noor.s3aied@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-Junior%20Data%20%26%20AI%20roles-4FD1C5?style=for-the-badge" alt="Open to junior Data & AI roles"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nourelhouda Saied) 
+### 👋 About me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NOUR-SAIED&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=NOUR-SAIED&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NOUR-SAIED&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 🛠️ I build **ELT pipelines** (Airflow, dbt, Spark, Kafka) and the **AI layer** on top of them (LLM agents, RAG).
+- 🎓 Engineering graduate in **Data Engineering & Decisional Systems**, Microsoft Certified **Fabric Data Engineer Associate**.
+- 🌍 Based in Tunis, open to **remote** and **relocation**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=NOUR-SAIED&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Featured projects
+
+<p align="center">
+  <a href="https://github.com/NOUR-SAIED/Scholarship-agent"><img src="assets/card-scholaragent.svg" width="49%" alt="ScholarAgent"/></a>
+  <a href="https://github.com/NOUR-SAIED/ai-knowledge-assistant"><img src="assets/card-rag.svg" width="49%" alt="AI Knowledge Assistant"/></a>
+  <a href="https://github.com/NOUR-SAIED/End-to-End-Streaming-Analytics-with-Delta-Lake"><img src="assets/card-deltalake.svg" width="49%" alt="Streaming Analytics with Delta Lake"/></a>
+  <a href="https://github.com/NOUR-SAIED/RealTime-Sensor-Streaming"><img src="assets/card-sensor.svg" width="49%" alt="Real-Time Sensor Streaming"/></a>
+  <a href="https://github.com/NOUR-SAIED/Speaker-Identification-Classical-vs-Deep-Learning-Models"><img src="assets/card-speaker.svg" width="49%" alt="Speaker Identification"/></a>
+  <a href="https://github.com/NOUR-SAIED/Medcase"><img src="assets/card-medcase.svg" width="49%" alt="Medcase"/></a>
+</p>
+
+<p align="center"><sub>Also: <a href="https://github.com/NOUR-SAIED/Predictive-System-for-EUR-TND-Exchange-Rate">EUR/TND exchange-rate forecasting</a> (hybrid SARIMA–XGBoost, +15% accuracy)</sub></p>
+
+---
+
+### 🏗️ How I build
+
+<p align="center">
+  <img src="assets/pipeline.svg" alt="Graduation project architecture: ServiceNow to Airflow, Bronze/Silver/Gold with dbt, Cube semantic layer, Superset and an AI copilot" width="100%"/>
+</p>
+
+<sub>🔒 My graduation project's code is private (client data). Happy to walk through it in an interview.</sub>
+
+---
+
+### 🧰 Tech stack
+
+<p align="center">
+  <img src="assets/stack.svg" alt="Tech stack" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Looking for a junior Data Engineer or AI Engineer role, in Tunisia, remote or abroad.</b><br/>
+  The fastest way to reach me: <a href="https://linkedin.com/in/nourelhouda-saied">LinkedIn</a> · <a href="mailto:noor.s3aied@gmail.com">noor.s3aied@gmail.com</a>
+</p>

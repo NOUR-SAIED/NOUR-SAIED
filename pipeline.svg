@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
+<defs>
+  <linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0B1A21"/><stop offset="100%" stop-color="#123844"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="420" rx="18" fill="url(#bgp)"/>
+<text x="40" y="52" font-size="22" font-weight="700" fill="#F7FAFC">How I build: graduation project architecture</text>
+<text x="40" y="80" font-size="14" fill="#A0B4BD">Governed analytics platform on ServiceNow support data, from raw tickets to plain-English answers</text>
+<rect x="40" y="150" width="140" height="84" rx="12" fill="#0B1A21" stroke="#4FD1C5" stroke-width="2.5"/>
+<text x="110.0" y="188" font-size="18" font-weight="700" fill="#F7FAFC" text-anchor="middle">ServiceNow</text>
+<text x="110.0" y="212" font-size="12.5" fill="#A0B4BD" text-anchor="middle">4 source tables</text>
+<rect x="210" y="150" width="140" height="84" rx="12" fill="#0B1A21" stroke="#4FD1C5" stroke-width="2.5"/>
+<text x="280.0" y="188" font-size="18" font-weight="700" fill="#F7FAFC" text-anchor="middle">Airflow</text>
+<text x="280.0" y="212" font-size="12.5" fill="#A0B4BD" text-anchor="middle">incremental loads</text>
+<rect x="380" y="150" width="120" height="84" rx="12" fill="#0B1A21" stroke="#CD7F32" stroke-width="2.5"/>
+<text x="440.0" y="188" font-size="18" font-weight="700" fill="#F7FAFC" text-anchor="middle">Bronze</text>
+<text x="440.0" y="212" font-size="12.5" fill="#A0B4BD" text-anchor="middle">raw</text>
+<rect x="520" y="150" width="120" height="84" rx="12" fill="#0B1A21" stroke="#C0C0C0" stroke-width="2.5"/>
+<text x="580.0" y="188" font-size="18" font-weight="700" fill="#F7FAFC" text-anchor="middle">Silver</text>
+<text x="580.0" y="212" font-size="12.5" fill="#A0B4BD" text-anchor="middle">cleaned</text>
+<rect x="660" y="150" width="130" height="84" rx="12" fill="#0B1A21" stroke="#E6B84C" stroke-width="2.5"/>
+<text x="725.0" y="188" font-size="18" font-weight="700" fill="#F7FAFC" text-anchor="middle">Gold</text>
+<text x="725.0" y="212" font-size="12.5" fill="#A0B4BD" text-anchor="middle">star schema</text>
+<rect x="830" y="150" width="140" height="84" rx="12" fill="#0B1A21" stroke="#4FD1C5" stroke-width="2.5"/>
+<text x="900.0" y="188" font-size="18" font-weight="700" fill="#F7FAFC" text-anchor="middle">Cube</text>
+<text x="900.0" y="212" font-size="12.5" fill="#A0B4BD" text-anchor="middle">semantic layer</text>
+<path d="M380 138 L380 128 L790 128 L790 138" fill="none" stroke="#F6AD55" stroke-width="2"/>
+<text x="585" y="120" font-size="13" font-weight="700" fill="#F6AD55" text-anchor="middle">dbt  ·  PostgreSQL  ·  34 tests</text>
+<line x1="184" y1="192.0" x2="204" y2="192.0" stroke="#4FD1C5" stroke-width="2"/>
+<polygon points="204,187.0 210,192.0 204,197.0" fill="#4FD1C5"/>
+<circle cx="180" cy="192.0" r="4" fill="#F6AD55"><animate attributeName="cx" from="184" to="202" dur="1.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<line x1="354" y1="192.0" x2="374" y2="192.0" stroke="#4FD1C5" stroke-width="2"/>
+<polygon points="374,187.0 380,192.0 374,197.0" fill="#4FD1C5"/>
+<circle cx="350" cy="192.0" r="4" fill="#F6AD55"><animate attributeName="cx" from="354" to="372" dur="1.2s" begin="0.25s" repeatCount="indefinite"/></circle>
+<line x1="504" y1="192.0" x2="514" y2="192.0" stroke="#4FD1C5" stroke-width="2"/>
+<polygon points="514,187.0 520,192.0 514,197.0" fill="#4FD1C5"/>
+<circle cx="500" cy="192.0" r="4" fill="#F6AD55"><animate attributeName="cx" from="504" to="512" dur="1.2s" begin="0.5s" repeatCount="indefinite"/></circle>
+<line x1="644" y1="192.0" x2="654" y2="192.0" stroke="#4FD1C5" stroke-width="2"/>
+<polygon points="654,187.0 660,192.0 654,197.0" fill="#4FD1C5"/>
+<circle cx="640" cy="192.0" r="4" fill="#F6AD55"><animate attributeName="cx" from="644" to="652" dur="1.2s" begin="0.75s" repeatCount="indefinite"/></circle>
+<line x1="794" y1="192.0" x2="824" y2="192.0" stroke="#4FD1C5" stroke-width="2"/>
+<polygon points="824,187.0 830,192.0 824,197.0" fill="#4FD1C5"/>
+<circle cx="790" cy="192.0" r="4" fill="#F6AD55"><animate attributeName="cx" from="794" to="822" dur="1.2s" begin="1.0s" repeatCount="indefinite"/></circle>
+<rect x="1030" y="118" width="140" height="70" rx="12" fill="#0B1A21" stroke="#4FD1C5" stroke-width="2.5"/>
+<text x="1100.0" y="149" font-size="17" font-weight="700" fill="#F7FAFC" text-anchor="middle">Superset</text>
+<text x="1100.0" y="171" font-size="11.5" fill="#A0B4BD" text-anchor="middle">dashboards</text>
+<path d="M974 192.0 C 1000 192.0, 1000 153, 1024 153" fill="none" stroke="#4FD1C5" stroke-width="2"/>
+<polygon points="1023,148 1030,153 1023,158" fill="#4FD1C5"/>
+<rect x="1030" y="226" width="140" height="70" rx="12" fill="#0B1A21" stroke="#4FD1C5" stroke-width="2.5"/>
+<text x="1100.0" y="257" font-size="17" font-weight="700" fill="#F7FAFC" text-anchor="middle">AI Copilot</text>
+<text x="1100.0" y="279" font-size="11.5" fill="#A0B4BD" text-anchor="middle">LangGraph + local LLM</text>
+<path d="M974 192.0 C 1000 192.0, 1000 261, 1024 261" fill="none" stroke="#4FD1C5" stroke-width="2"/>
+<polygon points="1023,256 1030,261 1023,266" fill="#4FD1C5"/>
+<text x="1100.0" y="330" font-size="13" fill="#A0B4BD" text-anchor="middle">non-technical team lead</text>
+<text x="1100.0" y="348" font-size="13" fill="#A0B4BD" text-anchor="middle">asks in plain English</text>
+<rect x="40" y="290" width="940" height="92" rx="12" fill="#1C4552" opacity="0.6"/>
+<text x="64" y="322" font-size="14" font-weight="700" fill="#4FD1C5" letter-spacing="1.2">QUALITY &amp; DELIVERY</text>
+<rect x="64" y="336" width="136.0" height="30" rx="15" fill="#0B1A21"/>
+<text x="132.0" y="356" font-size="13" font-weight="600" fill="#F7FAFC" text-anchor="middle">34/34 dbt tests</text>
+<rect x="210.0" y="336" width="189.2" height="30" rx="15" fill="#0B1A21"/>
+<text x="304.6" y="356" font-size="13" font-weight="600" fill="#F7FAFC" text-anchor="middle">93% unit-test coverage</text>
+<rect x="409.2" y="336" width="67.6" height="30" rx="15" fill="#0B1A21"/>
+<text x="443.0" y="356" font-size="13" font-weight="600" fill="#F7FAFC" text-anchor="middle">Docker</text>
+<rect x="486.79999999999995" y="336" width="174.0" height="30" rx="15" fill="#0B1A21"/>
+<text x="573.8" y="356" font-size="13" font-weight="600" fill="#F7FAFC" text-anchor="middle">GitHub Actions CI/CD</text>
+<rect x="670.8" y="336" width="166.4" height="30" rx="15" fill="#0B1A21"/>
+<text x="754.0" y="356" font-size="13" font-weight="600" fill="#F7FAFC" text-anchor="middle">Read-only AI access</text>
+</svg>
