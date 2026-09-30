@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="220" viewBox="0 0 580 220" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
+<defs>
+  <linearGradient id="bgc" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0B1A21"/><stop offset="100%" stop-color="#123844"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="578" height="218" rx="16" fill="url(#bgc)" stroke="#1C4552" stroke-width="2"/>
+<rect x="1" y="1" width="6" height="218" rx="3" fill="#4FD1C5"/>
+<text x="30" y="46" font-size="22" font-weight="700" fill="#F7FAFC">Medcase</text>
+<rect x="494.0" y="22" width="56.0" height="32" rx="16" fill="#F6AD55"/>
+<text x="522.0" y="44" font-size="16" font-weight="700" fill="#0B1A21" text-anchor="middle">~40%</text>
+<text x="550" y="72" font-size="11" fill="#A0B4BD" text-anchor="end">less chart-review time</text>
+<text x="30" y="96" font-size="15" fill="#A0B4BD">Turns unstructured medical records into analyzable data,</text>
+<text x="30" y="118" font-size="15" fill="#A0B4BD">extracting diagnoses and organs with NER.</text>
+<rect x="30" y="178" width="90.0" height="26" rx="13" fill="#1C4552"/>
+<text x="75.0" y="195.5" font-size="12.5" font-weight="600" fill="#4FD1C5" text-anchor="middle">PostgreSQL</text>
+<rect x="128.0" y="178" width="53.0" height="26" rx="13" fill="#1C4552"/>
+<text x="154.5" y="195.5" font-size="12.5" font-weight="600" fill="#4FD1C5" text-anchor="middle">SpaCy</text>
+<rect x="189.0" y="178" width="60.400000000000006" height="26" rx="13" fill="#1C4552"/>
+<text x="219.2" y="195.5" font-size="12.5" font-weight="600" fill="#4FD1C5" text-anchor="middle">GLiNER</text>
+<rect x="257.4" y="178" width="38.2" height="26" rx="13" fill="#1C4552"/>
+<text x="276.5" y="195.5" font-size="12.5" font-weight="600" fill="#4FD1C5" text-anchor="middle">NLP</text>
+</svg>
