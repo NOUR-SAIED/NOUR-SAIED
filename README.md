@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nourelhouda-saied"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/nour-el-houda-saied-029548148"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:noor.s3aied@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Open%20to-Junior%20Data%20%26%20AI%20roles-4FD1C5?style=for-the-badge" alt="Open to junior Data & AI roles"/>
 </p>
