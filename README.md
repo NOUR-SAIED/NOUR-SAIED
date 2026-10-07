@@ -51,5 +51,5 @@
 
 <p align="center">
   <b>Looking for a junior Data Engineer or AI Engineer role, in Tunisia, remote or abroad.</b><br/>
-  The fastest way to reach me: <a href="https://linkedin.com/in/nourelhouda-saied">LinkedIn</a> · <a href="mailto:noor.s3aied@gmail.com">noor.s3aied@gmail.com</a>
+  The fastest way to reach me: <a href="www.linkedin.com/in/nour-el-houda-saied-029548148">LinkedIn</a> · <a href="mailto:noor.s3aied@gmail.com">noor.s3aied@gmail.com</a>
 </p>
